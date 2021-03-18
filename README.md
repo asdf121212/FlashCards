@@ -1,2 +1,2 @@
 # FlashCards
-Java Swing flash card application for chords and scale degrees
+Flash card application for chords and scale degrees written in Java Swing.
