@@ -31,9 +31,9 @@ public class Main {
 
     private String[] triads = { "min", "maj" };
     private String[] normalSevenths = { "maj7", "min7", "7" };
-    private String[] rareSevenths = { "dim7", "ø", "min-maj7", "aug7", "7sus", "min7♭5" };
-    private String[] availableTensions = { "maj9", "maj♯11", "maj13♯11", "min9", "min11", "min13", "9", "♭9", "♯9",
-            "♯11", "13", "♭13" };
+    private String[] rareSevenths = { "dim7", "ø", "min-maj7", "aug7", "7sus", "min7(♭5)" };
+    private String[] availableTensions = { "maj9", "maj(♯11)", "maj13(♯11)", "min9", "min11", "min13", "9", "(♭9)", "(♯9)",
+            "(♯11)", "(13)", "(♭13)" };
 
     private String[] degrees = { "2nd", "3rd", "4th", "5th", "6th", "7th" };
 
